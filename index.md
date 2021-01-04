@@ -2,14 +2,14 @@
 layout: cv
 title: Danielle Swyhart's CV
 ---
-## Danielle Swyhart
+# Danielle Swyhart
  - Phone: (817)239-0307
  - [swyhartresume@hotmail.com](mailto:swyhartresume@hotmail.com)
 
-#### **Summary**
+## **Summary**
 I am a Senior level IT professional with an applications operations background focused on cloud technologies using Devops and SRE methodologies. I am focused on reaching any organization's strategic vision and goals while providing a stable, cost efficient, scalable, and fully automated infrastructure and software stack.
 
-#### **SkillSet**
+## **SkillSet**
 * SaaS
 * Cloud IaC
 * Full Software Stack administration.
@@ -26,9 +26,9 @@ I am a Senior level IT professional with an applications operations background f
 * Development of software deployment processes and stratigies.
 * Experience using monitoring tools such as Azure Application Insights, Zabbix, Sensu and New Relic.
 
-#### **Work Experience**
-##### NCR - FT Worth, TX
-###### Site Reliablity Engineer - Hosted Solutions Group - Infrastructure Engineering Team - August 2015 to October 2020
+## **Work Experience**
+### NCR - FT Worth, TX
+#### Site Reliablity Engineer - Hosted Solutions Group - Infrastructure Engineering Team - August 2015 to October 2020
 * Built the chef cookbooks used to provision the servers and deploy software artifacts to them.
 * Built, deployed, and maintained the ARM Templates used to migrate on prem infrastructure to Azure.
 * Designed, built and maintained all of the QA, Preprod, and production enviroments spanning every Azure region across the globe to meet the different product needs.
@@ -41,8 +41,8 @@ I am a Senior level IT professional with an applications operations background f
 * Built and provided analysis using ELK (Elastic Search, Logstash, Kibana).
 * I was in the process of learning Terraform and Kubernetes along with continerizing our products.
 
-##### NCR - FT Worth, TX
-###### Software Quality Engineer - Hosted Solutions Group - Mobile Applications Team - February 2011 to August 2015
+### NCR - FT Worth, TX
+#### Software Quality Engineer - Hosted Solutions Group - Mobile Applications Team - February 2011 to August 2015
 * Built and designed testing enviroments and scenerios.
 * Created, implementing and maintained application test plans and test cases.
 * Coordinate with multiple teams to develop deployment stratigies and methods.
@@ -51,15 +51,15 @@ I am a Senior level IT professional with an applications operations background f
 * write requirements and specs based on developments application needs.
 * Managed the Quality Analysis teams during development phases.
 
-##### Radiant Systems - FT Worth, TX
-###### Teir 3 Support Technician - Hosted Solutions Group - Application Support team - June 2006 to February 2011
+### Radiant Systems - FT Worth, TX
+#### Teir 3 Support Technician - Hosted Solutions Group - Application Support team - June 2006 to February 2011
 * triaged and maintained escalated support incidents.
 * Wrote and maintained SQL database scripts and procedures to support the product needs.
 * Wrote enhancement requests to the product development teams to handle customer support incidents.
 * Managed and wrote processes to handle customer support needs.
 
-#### **COURSES & TRAINING**
-###### Courses Taken
+### **COURSES & TRAINING**
+#### Courses Taken
 * A+
 * Network+
 * SQL Scripting
@@ -82,7 +82,7 @@ I am a Senior level IT professional with an applications operations background f
 * Software Security
 * ELK Stack
 
-###### Training Classes Taught & Process Designed
+#### Training Classes Taught & Process Designed
 * SQL Database Administration
 * Server Management
 * Disk Management
