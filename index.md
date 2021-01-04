@@ -3,11 +3,10 @@ layout: cv
 title: Danielle Swyhart's CV
 ---
 # Danielle Swyhart
- - Phone: (817)239-0307
- - [swyhartresume@hotmail.com](mailto:swyhartresume@hotmail.com)
-
-## **Summary**
 I am a Senior level IT professional with an applications operations background focused on cloud technologies using Devops and SRE methodologies. I am focused on reaching any organization's strategic vision and goals while providing a stable, cost efficient, scalable, and fully automated infrastructure and software stack.
+
+  Phone: (817)239-0307
+  [swyhartresume@hotmail.com](mailto:swyhartresume@hotmail.com)
 
 ## **SkillSet**
 * SaaS
