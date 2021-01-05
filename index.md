@@ -35,7 +35,7 @@ I am a Senior level IT professional with an applications operations background f
 * Implemented application insights and provided analysis to product teams along with creating product enhancment recommendations.
 * Provided 24x7 support, incident management, and subject matter expert consultation during system or service interuptions.
 * Wrote product specs, flow charts, training documents, and process runbooks.
-* Managed petabytes of aggrigated data across.
+* Managed petabytes of aggrigated data using SQL tasks and stored procedures.
 * Built, maintainted, and troubleshot no-SQL database solutions (couchbase, redis cache).
 * Built and provided analysis using ELK (Elastic Search, Logstash, Kibana).
 * I was in the process of learning Terraform and Kubernetes along with continerizing our products.
@@ -47,12 +47,12 @@ I am a Senior level IT professional with an applications operations background f
 * Coordinate with multiple teams to develop deployment stratigies and methods.
 * Identify, document and track defects.
 * Regression testing after defect resolutions.
-* write requirements and specs based on developments application needs.
+* Write requirements and specs based on developments application needs.
 * Managed the Quality Analysis teams during development phases.
 
 ### Radiant Systems - FT Worth, TX
-#### Teir 3 Support Technician - Hosted Solutions Group - Application Support team - June 2006 to February 2011
-* triaged and maintained escalated support incidents.
+#### Tier 3 Support Technician - Hosted Solutions Group - Application Support team - June 2006 to February 2011
+* Triaged and maintained escalated support incidents.
 * Wrote and maintained SQL database scripts and procedures to support the product needs.
 * Wrote enhancement requests to the product development teams to handle customer support incidents.
 * Managed and wrote processes to handle customer support needs.
